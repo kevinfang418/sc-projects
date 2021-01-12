@@ -11,4 +11,4 @@ There is Kevin's reprositry during StanCode SC101 course programming source code
 
 * [Stancode shop] https://github.com/kevinfang418/sc-projects/blob/main/SC101_Assignment3/stanCodoshop.py
 
-* [Break out]
+* [Breakout game] https://github.com/kevinfang418/sc-projects/blob/main/SC101_Assignment2/breakout.py
