@@ -9,4 +9,6 @@ There is Kevin's reprositry during StanCode SC101 course programming source code
 
 * [Baby name] https://github.com/kevinfang418/sc-projects/blob/main/SC101_Assignment4/babygraphics.py
 
-* [Stancode shop]
+* [Stancode shop] https://github.com/kevinfang418/sc-projects/blob/main/SC101_Assignment3/stanCodoshop.py
+
+* [Break out]
